@@ -100,10 +100,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-# 🌟 Footer
-st.markdown("""
----
-Made with ❤️ by **Babar_Burhan Student of Giaic (53657)**  
-""")
